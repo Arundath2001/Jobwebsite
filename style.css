@@ -1,0 +1,257 @@
+
+a {
+    color: black;
+    text-decoration: none;
+    outline: none;
+
+}
+
+h1{
+    font-weight: normal;
+    line-height: normal;
+    color: black;
+    margin: 0;
+    font-size: 24px
+}
+
+a, .btn {
+    text-decoration: none !important;
+    outline: none ;
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.sec1 {
+    padding-top: 70px;
+    padding-bottom: 0px;
+}
+
+.top1 {
+   width: 100%;
+   float: left;
+   background-image: url(./images/job.jpg);
+   height: auto;
+   padding-bottom: 90px;
+   background-size: cover;
+}
+
+.title1{
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+
+.email_bt {
+   width: 70%;
+   float: left;
+   font-size: 16px;
+   color: white;
+   background-color: white;
+   text-align: left;
+   height: 40px;
+   border: 0px;
+   border-top-left-radius: 20px;
+   border-bottom-left-radius: 20px;
+}
+
+.sub {
+   width: 30%;
+   background-color: black;
+   float: right;
+   color: #fff;
+   height: 40px;
+   font-size: 15px;
+   border-top-right-radius: 20px;
+   border-bottom-right-radius: 20px;
+}
+
+.sub a {
+   color: white;
+}
+
+.newbox {
+   width: 50%;
+   margin: 0 auto;
+   text-align: center;
+   padding-top: 30px;
+   display: flex;
+}
+
+.there_text {
+   width: 70%;
+   margin: 0 auto;
+   text-align: center;
+   color: white;
+   padding-top: 40px;
+   display: flex;
+}
+
+.bt_main{
+    width: 10%;
+    margin:auto;
+    text-align: center;
+}
+
+.more {
+   width: 100%;
+   float: left;
+   margin-top: 50px;
+}
+
+.more a{
+    width: 100%;
+    float: left;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+}
+
+.imgside{
+    width: 100%;
+    float: left;
+}
+
+.Job{
+    width: 70%;
+    float: right;
+}
+
+.jobs{
+    width: 100%;
+    float: left;
+    font-size: 50px;
+    color: black;
+
+}
+
+.para{
+    width: 100%;
+    float: left;
+    font-size: 15px;
+    color: black;
+    
+}
+
+.b1 {
+   width: 45%;
+   float: left;
+   margin-top: 50px;
+}
+
+.b1 a{
+    width: 100%;
+    float: left;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+}
+
+.img1{
+    width: 100%;
+    float: left;
+}
+
+.jobleft{
+    width: 70%;
+    float: left;
+}
+
+.footer_section {
+   width: 100%;
+   float: left;
+   background-color: rgb(59, 160, 183);
+   height: auto;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   margin-top: 40px;
+}
+
+.subtxt{
+    width: 100%;
+    float: left;
+    font-size: 20px;
+    color: white;
+}
+
+.para1{
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: white;
+    margin-left: 0px;
+}
+
+
+.bt2 {
+   width: 100%;
+   float: left;
+   font-size: 16px;
+   color: grey;
+   background-color: white;
+   text-align: left;
+   padding-left: 15px;
+   height: 60px;
+   border-radius: 20px;
+   padding-right: 250px;
+   padding-top: 15px;
+}
+
+.subbut {
+   width: 20%;
+   background-color: black;
+   float: right;
+   padding: 10px 14px;
+   color: white;
+   height: 50px;
+   font-size: 16px;
+   border-radius: 20px;
+   top: -55px;
+   position: relative;
+   right: 5px;
+}
+
+.subbut a {
+   color: white;
+}
+
+.box {
+   width: 100%;
+   margin: 0 auto;
+   text-align: center;
+   padding-top: 30px;
+   display: flex;
+}
+
+.cpy{
+    width: 100%;
+    float: left;
+    background-color: white;
+    height: auto;
+}
+
+.cpytxt {
+   width: 100%;
+   float: left;
+   font-size: 16px;
+   color: black;
+}
+
+.prit{
+   width: 100%;
+   float: left;
+   font-size: 16px;
+   color: black;
+   text-align: right;
+}
+
